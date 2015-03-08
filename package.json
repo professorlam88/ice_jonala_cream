@@ -1,0 +1,12 @@
+{
+  "name": "register",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "2.12.x",
+    "xmldoc": "0.1.2",
+    "sendgrid": "1.0.3"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
